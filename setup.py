@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="detectshift",
+    name="detectshift_M",
     version="1.0.0",
     author="Felipe Maia Polo",
     author_email="felipemaiapolo@gmail.com",
